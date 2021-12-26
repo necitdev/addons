@@ -11,7 +11,7 @@
     },
   
     "background": {
-      "scripts": ["workPage.js"],
+      "scripts": ["eventPage.js"],
       "persistent": false
     },
   

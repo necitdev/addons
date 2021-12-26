@@ -1,6 +1,6 @@
 var menuItem = {
     "id": "Word",
-    "title": "Word",
+    "title": "Word History",
     "contexts": ["selection"]
 };
 
